@@ -1,0 +1,430 @@
+.bangers-regular {
+    font-family: "Bangers", system-ui;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.desktop {
+  background-color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #000000;
+  overflow: hidden;
+  width: 1440px;
+  height: 1169px;
+  position: relative;
+}
+
+.desktop .navbar {
+  position: absolute;
+  width: 1450px;
+  height: 60px;
+  top: 15px;
+  left: 0;
+}
+
+.desktop .text-wrapper {
+  width: 57px;
+  top: 8px;
+  left: 981px;
+  color: #ffffff;
+  font-size: 30px;
+  position: absolute;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-2 {
+  width: 69px;
+  top: 8px;
+  left: 1082px;
+  color: #ffffff;
+  font-size: 30px;
+  position: absolute;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-3 {
+  width: 80px;
+  top: 8px;
+  left: 1195px;
+  color: #ffffff;
+  font-size: 30px;
+  position: absolute;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 92px;
+  top: 8px;
+  left: 1318px;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-5 {
+  width: 96px;
+  top: 0;
+  left: 35px;
+  color: #d8a157;
+  font-size: 50px;
+  position: absolute;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .line {
+  position: absolute;
+  width: 1440px;
+  height: 3px;
+  top: 58px;
+  left: 0;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1765px;
+  height: 1135px;
+  top: 80px;
+  left: -129px;
+}
+
+.desktop .background {
+  position: absolute;
+  width: 1765px;
+  height: 1135px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 147px;
+  height: 105px;
+  top: 745px;
+  left: 129px;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 34px;
+  height: 104px;
+  top: 2px;
+  left: 0;
+}
+
+.desktop .background-2 {
+  position: absolute;
+  width: 147px;
+  height: 104px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 200px;
+  height: 106px;
+  top: 859px;
+  left: 129px;
+}
+
+.desktop .background-3 {
+  position: absolute;
+  width: 87px;
+  height: 104px;
+  top: 3px;
+  left: 0;
+}
+
+.desktop .background-4 {
+  position: absolute;
+  width: 163px;
+  height: 104px;
+  top: 0;
+  left: 37px;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 322px;
+  height: 124px;
+  top: 124px;
+  left: 1229px;
+}
+
+.desktop .background-5 {
+  position: absolute;
+  width: 190px;
+  height: 121px;
+  top: 3px;
+  left: 132px;
+}
+
+.desktop .background-6 {
+  position: absolute;
+  width: 190px;
+  height: 121px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .background-7 {
+  position: absolute;
+  width: 190px;
+  height: 121px;
+  top: 3px;
+  left: 1379px;
+}
+
+.desktop .background-8 {
+  position: absolute;
+  width: 190px;
+  height: 121px;
+  top: 0;
+  left: 1189px;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 959px;
+  height: 845px;
+  top: 290px;
+  left: 806px;
+}
+
+.desktop .overlap-group-wrapper {
+  position: absolute;
+  width: 959px;
+  height: 845px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  height: 845px;
+}
+
+.desktop .ellipse {
+  position: absolute;
+  width: 535px;
+  height: 535px;
+  top: 0;
+  left: 424px;
+  background-color: #678c9e;
+  border-radius: 267.5px;
+  filter: blur(100px);
+}
+
+.desktop .ellipse-2 {
+  position: absolute;
+  width: 535px;
+  height: 535px;
+  top: 130px;
+  left: 140px;
+  background-color: #678c9e;
+  border-radius: 267.5px;
+  filter: blur(100px);
+}
+
+.desktop .ellipse-3 {
+  position: absolute;
+  width: 535px;
+  height: 535px;
+  top: 119px;
+  left: 272px;
+  background-color: #c48144;
+  border-radius: 267.5px;
+  filter: blur(100px);
+}
+
+.desktop .ellipse-4 {
+  position: absolute;
+  width: 535px;
+  height: 535px;
+  top: 310px;
+  left: 0;
+  background-color: #dd9c50;
+  border-radius: 267.5px;
+  filter: blur(100px);
+}
+
+.desktop .ellipse-5 {
+  position: absolute;
+  width: 736px;
+  height: 585px;
+  top: 214px;
+  left: 10px;
+}
+
+.desktop .ellipse-6 {
+  position: absolute;
+  width: 530px;
+  height: 631px;
+  top: 168px;
+  left: 233px;
+}
+
+.desktop .layer {
+  position: absolute;
+  width: 499px;
+  height: 513px;
+  top: 254px;
+  left: 234px;
+  background-blend-mode: difference;
+}
+
+.desktop .head {
+  position: absolute;
+  width: 841px;
+  height: 640px;
+  top: 31px;
+  left: 174px;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 837px;
+  top: 0;
+  left: 0;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 160px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  width: 571px;
+  top: 509px;
+  left: 0;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  color: #dfdfdf;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .button {
+  position: absolute;
+  width: 387px;
+  height: 50px;
+  top: 590px;
+  left: 0;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 180px;
+  height: 50px;
+  top: 0;
+  left: 0;
+  background-color: #daa057;
+  border-radius: 30px;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 11px;
+  left: 44px;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  color: #000000;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 180px;
+  height: 50px;
+  top: 0;
+  left: 203px;
+  background-color: #ffffff80;
+  border-radius: 30px;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  top: 11px;
+  left: 41px;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .scroll {
+  position: absolute;
+  width: 226px;
+  height: 31px;
+  top: 814px;
+  left: 232px;
+}
+
+.desktop .scroll-down-to-know {
+  position: absolute;
+  top: 7px;
+  left: 40px;
+  font-family: "Bangers", system-ui;
+  font-weight: 400;
+  color: transparent;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .span {
+  color: #8e8e8e;
+}
+
+.desktop .text-wrapper-9 {
+  color: #ffffff;
+}
+
+.desktop .text-wrapper-10 {
+  color: #daa057;
+}
+
+.desktop .mouse {
+  position: absolute;
+  width: 31px;
+  height: 31px;
+  top: 0;
+  left: 0;
+}
